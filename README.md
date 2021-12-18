@@ -1,5 +1,14 @@
 # QtScrcpy 
 
+
+![QtScrcpyL](https://user-images.githubusercontent.com/12236503/146626255-272bb15b-a284-45e0-9466-1efcfeefcacb.png)
+
+
+
+
+
+
+
 [![Financial Contributors on Open Collective](https://opencollective.com/QtScrcpy/all/badge.svg?label=financial+contributors)](https://opencollective.com/QtScrcpy)
 ![Windows](https://github.com/barry-ran/QtScrcpy/workflows/Windows/badge.svg)
 ![MacOS](https://github.com/barry-ran/QtScrcpy/workflows/MacOS/badge.svg)
